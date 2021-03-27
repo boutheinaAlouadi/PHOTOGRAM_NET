@@ -5857,26 +5857,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sadki\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\LENOVO\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sadki\\OneDrive\\Bureau\\Medusa- Project\\Project\\PHOTOGRAM.DataAccess\\PHOTOGRAM.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\LENOVO\\Downloads\\Medusa- Project\\Medusa- Project\\Project\\PHOTOGRAM.DataAccess\\PHOTOGRAM.DataAccess.csproj",
       "projectName": "PHOTOGRAM.DataAccess",
-      "projectPath": "C:\\Users\\sadki\\OneDrive\\Bureau\\Medusa- Project\\Project\\PHOTOGRAM.DataAccess\\PHOTOGRAM.DataAccess.csproj",
-      "packagesPath": "C:\\Users\\sadki\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sadki\\OneDrive\\Bureau\\Medusa- Project\\Project\\PHOTOGRAM.DataAccess\\obj\\",
+      "projectPath": "C:\\Users\\LENOVO\\Downloads\\Medusa- Project\\Medusa- Project\\Project\\PHOTOGRAM.DataAccess\\PHOTOGRAM.DataAccess.csproj",
+      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\LENOVO\\Downloads\\Medusa- Project\\Medusa- Project\\Project\\PHOTOGRAM.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\sadki\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -5891,8 +5890,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\sadki\\OneDrive\\Bureau\\Medusa- Project\\Project\\PHOTOGRAM.ApplicationCore\\PHOTOGRAM.ApplicationCore.csproj": {
-              "projectPath": "C:\\Users\\sadki\\OneDrive\\Bureau\\Medusa- Project\\Project\\PHOTOGRAM.ApplicationCore\\PHOTOGRAM.ApplicationCore.csproj"
+            "C:\\Users\\LENOVO\\Downloads\\Medusa- Project\\Medusa- Project\\Project\\PHOTOGRAM.ApplicationCore\\PHOTOGRAM.ApplicationCore.csproj": {
+              "projectPath": "C:\\Users\\LENOVO\\Downloads\\Medusa- Project\\Medusa- Project\\Project\\PHOTOGRAM.ApplicationCore\\PHOTOGRAM.ApplicationCore.csproj"
             }
           }
         }

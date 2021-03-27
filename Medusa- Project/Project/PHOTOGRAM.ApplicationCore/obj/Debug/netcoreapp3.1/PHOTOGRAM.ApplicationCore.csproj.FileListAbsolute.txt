@@ -1,0 +1,27 @@
+C:\Users\fatma\Desktop\FATMA_AMARA\InstaNet.ApplicationCore\bin\Debug\netcoreapp3.1\PHOTOGRAM.ApplicationCore.deps.json
+C:\Users\fatma\Desktop\FATMA_AMARA\InstaNet.ApplicationCore\bin\Debug\netcoreapp3.1\PHOTOGRAM.ApplicationCore.dll
+C:\Users\fatma\Desktop\FATMA_AMARA\InstaNet.ApplicationCore\bin\Debug\netcoreapp3.1\PHOTOGRAM.ApplicationCore.pdb
+C:\Users\fatma\Desktop\FATMA_AMARA\InstaNet.ApplicationCore\obj\Debug\netcoreapp3.1\PHOTOGRAM.ApplicationCore.csprojAssemblyReference.cache
+C:\Users\fatma\Desktop\FATMA_AMARA\InstaNet.ApplicationCore\obj\Debug\netcoreapp3.1\PHOTOGRAM.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\fatma\Desktop\FATMA_AMARA\InstaNet.ApplicationCore\obj\Debug\netcoreapp3.1\PHOTOGRAM.ApplicationCore.AssemblyInfo.cs
+C:\Users\fatma\Desktop\FATMA_AMARA\InstaNet.ApplicationCore\obj\Debug\netcoreapp3.1\PHOTOGRAM.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\fatma\Desktop\FATMA_AMARA\InstaNet.ApplicationCore\obj\Debug\netcoreapp3.1\PHOTOGRAM.ApplicationCore.dll
+C:\Users\fatma\Desktop\FATMA_AMARA\InstaNet.ApplicationCore\obj\Debug\netcoreapp3.1\PHOTOGRAM.ApplicationCore.pdb
+C:\Users\fatma\Desktop\FATMA_AMARA - Copie\PHOTOGRAM.ApplicationCore\bin\Debug\netcoreapp3.1\PHOTOGRAM.ApplicationCore.deps.json
+C:\Users\fatma\Desktop\FATMA_AMARA - Copie\PHOTOGRAM.ApplicationCore\bin\Debug\netcoreapp3.1\PHOTOGRAM.ApplicationCore.dll
+C:\Users\fatma\Desktop\FATMA_AMARA - Copie\PHOTOGRAM.ApplicationCore\bin\Debug\netcoreapp3.1\PHOTOGRAM.ApplicationCore.pdb
+C:\Users\fatma\Desktop\FATMA_AMARA - Copie\PHOTOGRAM.ApplicationCore\obj\Debug\netcoreapp3.1\PHOTOGRAM.ApplicationCore.csprojAssemblyReference.cache
+C:\Users\fatma\Desktop\FATMA_AMARA - Copie\PHOTOGRAM.ApplicationCore\obj\Debug\netcoreapp3.1\PHOTOGRAM.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\fatma\Desktop\FATMA_AMARA - Copie\PHOTOGRAM.ApplicationCore\obj\Debug\netcoreapp3.1\PHOTOGRAM.ApplicationCore.AssemblyInfo.cs
+C:\Users\fatma\Desktop\FATMA_AMARA - Copie\PHOTOGRAM.ApplicationCore\obj\Debug\netcoreapp3.1\PHOTOGRAM.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\fatma\Desktop\FATMA_AMARA - Copie\PHOTOGRAM.ApplicationCore\obj\Debug\netcoreapp3.1\PHOTOGRAM.ApplicationCore.dll
+C:\Users\fatma\Desktop\FATMA_AMARA - Copie\PHOTOGRAM.ApplicationCore\obj\Debug\netcoreapp3.1\PHOTOGRAM.ApplicationCore.pdb
+C:\Users\sadki\OneDrive\Bureau\Medusa- Project\Project\PHOTOGRAM.ApplicationCore\bin\Debug\netcoreapp3.1\PHOTOGRAM.ApplicationCore.deps.json
+C:\Users\sadki\OneDrive\Bureau\Medusa- Project\Project\PHOTOGRAM.ApplicationCore\bin\Debug\netcoreapp3.1\PHOTOGRAM.ApplicationCore.dll
+C:\Users\sadki\OneDrive\Bureau\Medusa- Project\Project\PHOTOGRAM.ApplicationCore\bin\Debug\netcoreapp3.1\PHOTOGRAM.ApplicationCore.pdb
+C:\Users\sadki\OneDrive\Bureau\Medusa- Project\Project\PHOTOGRAM.ApplicationCore\obj\Debug\netcoreapp3.1\PHOTOGRAM.ApplicationCore.csprojAssemblyReference.cache
+C:\Users\sadki\OneDrive\Bureau\Medusa- Project\Project\PHOTOGRAM.ApplicationCore\obj\Debug\netcoreapp3.1\PHOTOGRAM.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\sadki\OneDrive\Bureau\Medusa- Project\Project\PHOTOGRAM.ApplicationCore\obj\Debug\netcoreapp3.1\PHOTOGRAM.ApplicationCore.AssemblyInfo.cs
+C:\Users\sadki\OneDrive\Bureau\Medusa- Project\Project\PHOTOGRAM.ApplicationCore\obj\Debug\netcoreapp3.1\PHOTOGRAM.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\sadki\OneDrive\Bureau\Medusa- Project\Project\PHOTOGRAM.ApplicationCore\obj\Debug\netcoreapp3.1\PHOTOGRAM.ApplicationCore.dll
+C:\Users\sadki\OneDrive\Bureau\Medusa- Project\Project\PHOTOGRAM.ApplicationCore\obj\Debug\netcoreapp3.1\PHOTOGRAM.ApplicationCore.pdb

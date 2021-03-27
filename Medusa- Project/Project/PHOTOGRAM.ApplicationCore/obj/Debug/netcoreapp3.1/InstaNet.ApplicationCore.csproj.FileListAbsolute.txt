@@ -1,0 +1,9 @@
+C:\Users\fatma\Downloads\InstaNet-master\InstaNet-master\src\InstaNet.ApplicationCore\bin\Debug\netcoreapp3.1\InstaNet.ApplicationCore.deps.json
+C:\Users\fatma\Downloads\InstaNet-master\InstaNet-master\src\InstaNet.ApplicationCore\bin\Debug\netcoreapp3.1\InstaNet.ApplicationCore.dll
+C:\Users\fatma\Downloads\InstaNet-master\InstaNet-master\src\InstaNet.ApplicationCore\bin\Debug\netcoreapp3.1\InstaNet.ApplicationCore.pdb
+C:\Users\fatma\Downloads\InstaNet-master\InstaNet-master\src\InstaNet.ApplicationCore\obj\Debug\netcoreapp3.1\InstaNet.ApplicationCore.csprojAssemblyReference.cache
+C:\Users\fatma\Downloads\InstaNet-master\InstaNet-master\src\InstaNet.ApplicationCore\obj\Debug\netcoreapp3.1\InstaNet.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\fatma\Downloads\InstaNet-master\InstaNet-master\src\InstaNet.ApplicationCore\obj\Debug\netcoreapp3.1\InstaNet.ApplicationCore.AssemblyInfo.cs
+C:\Users\fatma\Downloads\InstaNet-master\InstaNet-master\src\InstaNet.ApplicationCore\obj\Debug\netcoreapp3.1\InstaNet.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\fatma\Downloads\InstaNet-master\InstaNet-master\src\InstaNet.ApplicationCore\obj\Debug\netcoreapp3.1\InstaNet.ApplicationCore.dll
+C:\Users\fatma\Downloads\InstaNet-master\InstaNet-master\src\InstaNet.ApplicationCore\obj\Debug\netcoreapp3.1\InstaNet.ApplicationCore.pdb

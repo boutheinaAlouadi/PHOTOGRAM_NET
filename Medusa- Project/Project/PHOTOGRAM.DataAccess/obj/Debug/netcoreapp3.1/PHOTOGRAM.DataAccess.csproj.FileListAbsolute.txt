@@ -1,0 +1,36 @@
+C:\Users\fatma\Desktop\FATMA_AMARA\InstaNet.DataAccess\bin\Debug\netcoreapp3.1\PHOTOGRAM.DataAccess.deps.json
+C:\Users\fatma\Desktop\FATMA_AMARA\InstaNet.DataAccess\bin\Debug\netcoreapp3.1\PHOTOGRAM.DataAccess.dll
+C:\Users\fatma\Desktop\FATMA_AMARA\InstaNet.DataAccess\bin\Debug\netcoreapp3.1\PHOTOGRAM.DataAccess.pdb
+C:\Users\fatma\Desktop\FATMA_AMARA\InstaNet.DataAccess\bin\Debug\netcoreapp3.1\PHOTOGRAM.ApplicationCore.dll
+C:\Users\fatma\Desktop\FATMA_AMARA\InstaNet.DataAccess\bin\Debug\netcoreapp3.1\PHOTOGRAM.ApplicationCore.pdb
+C:\Users\fatma\Desktop\FATMA_AMARA\InstaNet.DataAccess\obj\Debug\netcoreapp3.1\PHOTOGRAM.DataAccess.csprojAssemblyReference.cache
+C:\Users\fatma\Desktop\FATMA_AMARA\InstaNet.DataAccess\obj\Debug\netcoreapp3.1\PHOTOGRAM.DataAccess.AssemblyInfoInputs.cache
+C:\Users\fatma\Desktop\FATMA_AMARA\InstaNet.DataAccess\obj\Debug\netcoreapp3.1\PHOTOGRAM.DataAccess.AssemblyInfo.cs
+C:\Users\fatma\Desktop\FATMA_AMARA\InstaNet.DataAccess\obj\Debug\netcoreapp3.1\PHOTOGRAM.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\fatma\Desktop\FATMA_AMARA\InstaNet.DataAccess\obj\Debug\netcoreapp3.1\PHOTOGRAM.DataAccess.csproj.CopyComplete
+C:\Users\fatma\Desktop\FATMA_AMARA\InstaNet.DataAccess\obj\Debug\netcoreapp3.1\PHOTOGRAM.DataAccess.dll
+C:\Users\fatma\Desktop\FATMA_AMARA\InstaNet.DataAccess\obj\Debug\netcoreapp3.1\PHOTOGRAM.DataAccess.pdb
+C:\Users\fatma\Desktop\FATMA_AMARA - Copie\PHOTOGRAM.DataAccess\bin\Debug\netcoreapp3.1\PHOTOGRAM.DataAccess.deps.json
+C:\Users\fatma\Desktop\FATMA_AMARA - Copie\PHOTOGRAM.DataAccess\bin\Debug\netcoreapp3.1\PHOTOGRAM.DataAccess.dll
+C:\Users\fatma\Desktop\FATMA_AMARA - Copie\PHOTOGRAM.DataAccess\bin\Debug\netcoreapp3.1\PHOTOGRAM.DataAccess.pdb
+C:\Users\fatma\Desktop\FATMA_AMARA - Copie\PHOTOGRAM.DataAccess\bin\Debug\netcoreapp3.1\PHOTOGRAM.ApplicationCore.dll
+C:\Users\fatma\Desktop\FATMA_AMARA - Copie\PHOTOGRAM.DataAccess\bin\Debug\netcoreapp3.1\PHOTOGRAM.ApplicationCore.pdb
+C:\Users\fatma\Desktop\FATMA_AMARA - Copie\PHOTOGRAM.DataAccess\obj\Debug\netcoreapp3.1\PHOTOGRAM.DataAccess.csprojAssemblyReference.cache
+C:\Users\fatma\Desktop\FATMA_AMARA - Copie\PHOTOGRAM.DataAccess\obj\Debug\netcoreapp3.1\PHOTOGRAM.DataAccess.AssemblyInfoInputs.cache
+C:\Users\fatma\Desktop\FATMA_AMARA - Copie\PHOTOGRAM.DataAccess\obj\Debug\netcoreapp3.1\PHOTOGRAM.DataAccess.AssemblyInfo.cs
+C:\Users\fatma\Desktop\FATMA_AMARA - Copie\PHOTOGRAM.DataAccess\obj\Debug\netcoreapp3.1\PHOTOGRAM.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\fatma\Desktop\FATMA_AMARA - Copie\PHOTOGRAM.DataAccess\obj\Debug\netcoreapp3.1\PHOTOGRAM.DataAccess.csproj.CopyComplete
+C:\Users\fatma\Desktop\FATMA_AMARA - Copie\PHOTOGRAM.DataAccess\obj\Debug\netcoreapp3.1\PHOTOGRAM.DataAccess.dll
+C:\Users\fatma\Desktop\FATMA_AMARA - Copie\PHOTOGRAM.DataAccess\obj\Debug\netcoreapp3.1\PHOTOGRAM.DataAccess.pdb
+C:\Users\sadki\OneDrive\Bureau\Medusa- Project\Project\PHOTOGRAM.DataAccess\bin\Debug\netcoreapp3.1\PHOTOGRAM.DataAccess.deps.json
+C:\Users\sadki\OneDrive\Bureau\Medusa- Project\Project\PHOTOGRAM.DataAccess\bin\Debug\netcoreapp3.1\PHOTOGRAM.DataAccess.dll
+C:\Users\sadki\OneDrive\Bureau\Medusa- Project\Project\PHOTOGRAM.DataAccess\bin\Debug\netcoreapp3.1\PHOTOGRAM.DataAccess.pdb
+C:\Users\sadki\OneDrive\Bureau\Medusa- Project\Project\PHOTOGRAM.DataAccess\bin\Debug\netcoreapp3.1\PHOTOGRAM.ApplicationCore.dll
+C:\Users\sadki\OneDrive\Bureau\Medusa- Project\Project\PHOTOGRAM.DataAccess\bin\Debug\netcoreapp3.1\PHOTOGRAM.ApplicationCore.pdb
+C:\Users\sadki\OneDrive\Bureau\Medusa- Project\Project\PHOTOGRAM.DataAccess\obj\Debug\netcoreapp3.1\PHOTOGRAM.DataAccess.csprojAssemblyReference.cache
+C:\Users\sadki\OneDrive\Bureau\Medusa- Project\Project\PHOTOGRAM.DataAccess\obj\Debug\netcoreapp3.1\PHOTOGRAM.DataAccess.AssemblyInfoInputs.cache
+C:\Users\sadki\OneDrive\Bureau\Medusa- Project\Project\PHOTOGRAM.DataAccess\obj\Debug\netcoreapp3.1\PHOTOGRAM.DataAccess.AssemblyInfo.cs
+C:\Users\sadki\OneDrive\Bureau\Medusa- Project\Project\PHOTOGRAM.DataAccess\obj\Debug\netcoreapp3.1\PHOTOGRAM.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\sadki\OneDrive\Bureau\Medusa- Project\Project\PHOTOGRAM.DataAccess\obj\Debug\netcoreapp3.1\PHOTOGRAM.DataAccess.csproj.CopyComplete
+C:\Users\sadki\OneDrive\Bureau\Medusa- Project\Project\PHOTOGRAM.DataAccess\obj\Debug\netcoreapp3.1\PHOTOGRAM.DataAccess.dll
+C:\Users\sadki\OneDrive\Bureau\Medusa- Project\Project\PHOTOGRAM.DataAccess\obj\Debug\netcoreapp3.1\PHOTOGRAM.DataAccess.pdb

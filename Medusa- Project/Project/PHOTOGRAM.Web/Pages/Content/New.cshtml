@@ -1,0 +1,38 @@
+﻿@page
+@model PHOTOGRAM.Web.Pages.Content.NewModel
+
+@{
+    ViewData["Title"] = "New";
+}
+
+<div class="post-container">
+    <div class="column-container">
+        <div class="row-container" style="padding: 7px; border: 1px solid rgba(0,0,0,.0975)">
+            <a style="margin-top: 0px" asp-page="/Account/Profile" asp-route-id="@User.Identity.GetProfileId()"><img src="data:image;base64,@User.Identity.GetProfileImage()" height="35" width="35" style="border-radius: 50px; margin: 3px; margin-left: 10px" /></a>
+            <a asp-page="/Account/Profile" asp-route-id="@User.Identity.GetProfileId()">@User.Identity.GetProfileName()</a>
+        </div>
+
+        <form method="post" asp-route-id="@User.Identity.GetProfileId()" asp-page-handler="New" enctype="multipart/form-data" style="margin: 0px;">
+            <div class="column-container" style="margin: 0px;">
+                <label for="imageInput" style="margin: 0px;">
+                    <img class="main-img" id="imageDisplay" src="~/images/Select.png" alt="COVER" style="margin: 0px;" />
+                    <input asp-for="PostViewModel.Picture" id="imageInput" />
+                </label>
+            </div>
+
+            <div style="border: 1px solid rgba(0,0,0,.0975); margin: 0px; padding: 15px">
+                <div class="row-container">
+                    <p style="margin-top: 11px; margin-right: 5px;">Caption</p>
+                    <input asp-for="PostViewModel.Caption" style="width: 100%;" />
+                </div>
+
+                <div class="form-group">
+                    <input type="submit" value="Post" />
+                </div>
+
+                <div class="errors" asp-validation-summary="All"></div>
+            </div>
+        </form>
+    </div>
+</div>
+

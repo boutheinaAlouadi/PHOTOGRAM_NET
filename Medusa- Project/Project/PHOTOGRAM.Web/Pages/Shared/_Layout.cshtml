@@ -1,0 +1,81 @@
+﻿
+@using Microsoft.AspNetCore.Identity
+@using PHOTOGRAM.DataAccess.Identity
+@using PHOTOGRAM.DataAccess.Data
+
+@inject RepositoryContext repositoryContext;
+@inject UserManager<ApplicationUser> UserManager
+
+@{
+    ApplicationUser CurrentProfil = null;
+
+    if (User.Identity.IsAuthenticated)
+    {
+        CurrentProfil = await UserManager.FindByNameAsync(User.Identity.Name);
+    }
+
+    var Suggestions = this.repositoryContext.Profiles.OrderBy(x => Guid.NewGuid()).Take(5).ToList();
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+
+    <link rel="stylesheet" href="~/css/Main.css" />
+
+    <title>PHOTOGRAM</title>
+</head>
+
+<body>
+    <header>
+        <div class="header-container">
+            
+
+            <div class="branding">
+              <a asp-page="/Index"><h1 style="font-size: 26px;">PHOTOGRAM_INSTA</h1></a>
+            </div>
+
+           
+        </div>
+    </header>
+
+    <div class="main-container row-container">
+
+        
+
+        <div class="column-container" style="width: 100%;">
+            @RenderBody()
+        </div>
+
+        @if (User.Identity.IsAuthenticated)
+        {
+            <div class="side-bar">
+              
+
+                <div class="side-container">
+
+                    <h1 class="bubble">Suggestions For You</h1>
+
+                    <div class="column-container" style="margin-top: 15px">
+                        @foreach (var user in Suggestions)
+                        {
+                            <a asp-page="/Account/Profile" asp-route-id="@user.Id" class="click-link">@user.UserName</a>
+                        }
+                    </div>
+                </div>
+            </div>
+        }
+
+    </div>
+
+    <footer>
+      
+        <a href="/About"><strong>ABOUT</strong></a>
+    </footer>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="~/js/JavaScript.js"></script>
+</body>
+</html>
